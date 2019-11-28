@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "ADIV-SGRSPuzzel", "ADIV-SGRSPuzzel\ADIV-SGRSPuzzel.shproj", "{C6CCDB2B-EB17-4EC2-8C29-89EFBFFAE9C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "V2", "V2\V2.csproj", "{ED724741-00CD-45DA-ABB0-1F039439B1A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helpers", "Helpers\Helpers.csproj", "{332E6F7B-7911-4957-92FF-C46AD63290A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelperTesters", "HelperTesters\HelperTesters.csproj", "{C1BF76A2-6249-4FE0-9D8C-F9E9782483D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "V31", "V31\V31.csproj", "{BB4DE47D-040D-48A9-A170-021863CE571B}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		ADIV-SGRSPuzzel\ADIV-SGRSPuzzel.projitems*{c6ccdb2b-eb17-4ec2-8c29-89efbffae9c0}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED724741-00CD-45DA-ABB0-1F039439B1A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED724741-00CD-45DA-ABB0-1F039439B1A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED724741-00CD-45DA-ABB0-1F039439B1A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED724741-00CD-45DA-ABB0-1F039439B1A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{332E6F7B-7911-4957-92FF-C46AD63290A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{332E6F7B-7911-4957-92FF-C46AD63290A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{332E6F7B-7911-4957-92FF-C46AD63290A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{332E6F7B-7911-4957-92FF-C46AD63290A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1BF76A2-6249-4FE0-9D8C-F9E9782483D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1BF76A2-6249-4FE0-9D8C-F9E9782483D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1BF76A2-6249-4FE0-9D8C-F9E9782483D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1BF76A2-6249-4FE0-9D8C-F9E9782483D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB4DE47D-040D-48A9-A170-021863CE571B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB4DE47D-040D-48A9-A170-021863CE571B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB4DE47D-040D-48A9-A170-021863CE571B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB4DE47D-040D-48A9-A170-021863CE571B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22820D48-2C2A-4FB9-B938-CC30A4A906B3}
+	EndGlobalSection
+EndGlobal
